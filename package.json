@@ -1,0 +1,23 @@
+{
+  "name": "app_nhw",
+  "version": "1.0.0",
+  "description": "NodeJS Hello World and Docker Example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daka2712/NodeJS_HelloWorld.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "HelloWorld"
+  ],
+  "author": "Daniel Kennedy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daka2712/NodeJS_HelloWorld/issues"
+  },
+  "homepage": "https://github.com/daka2712/NodeJS_HelloWorld#readme"
+}
